@@ -1,18 +1,23 @@
 [submodule "src/mom"]
 	path = src/mom
-    url = https://github.com/mom-ocean/MOM5.git
+        url = https://github.com/penguian/MOM5.git
+	branch = "."
 [submodule "src/cice5"]
 	path = src/cice5
-	url = https://github.com/COSIMA/cice5.git
+	url = https://github.com/penguian/cice5.git
+	branch = "."
 [submodule "control/1deg_jra55_ryf"]
 	path = control/1deg_jra55_ryf
-	url = https://github.com/COSIMA/1deg_jra55_ryf.git
+	url = https://github.com/penguian/1deg_jra55_ryf.git
+	branch = "."
 [submodule "control/01deg_jra55_ryf"]
 	path = control/01deg_jra55_ryf
-	url = https://github.com/COSIMA/01deg_jra55_ryf.git
+	url = https://github.com/penguian/01deg_jra55_ryf.git
+	branch = "."
 [submodule "control/025deg_jra55_ryf"]
 	path = control/025deg_jra55_ryf
-	url = https://github.com/COSIMA/025deg_jra55_ryf.git
+	url = https://github.com/penguian/025deg_jra55_ryf.git
+	branch = "."
 [submodule "control/1deg_core_nyf"]
 	path = control/1deg_core_nyf
 	url = https://github.com/COSIMA/1deg_core_nyf.git
@@ -21,7 +26,8 @@
 	url = https://github.com/DoublePrecision/esmgrids.git
 [submodule "src/libaccessom2"]
 	path = src/libaccessom2
-	url = https://github.com/COSIMA/libaccessom2.git
+	url = https://github.com/penguian/libaccessom2.git
+	branch = "."
 [submodule "control/1deg_jra55_iaf"]
 	path = control/1deg_jra55_iaf
 	url = https://github.com/COSIMA/1deg_jra55_iaf.git
