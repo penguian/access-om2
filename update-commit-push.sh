@@ -8,7 +8,7 @@
 
 set -e
 
-export public=/short/public/access-om2/bin  # also used in hashexe-public.sh
+export public=/g/data/ik11/inputs/access-om2/bin  # also used in hashexe-public.sh
 if [ -w $public ]; then
     bindir=$public                                                           
 else
