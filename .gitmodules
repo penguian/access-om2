@@ -3,13 +3,18 @@
     url = https://github.com/mom-ocean/MOM5.git
 [submodule "src/cice5"]
 	path = src/cice5
-	url = https://github.com/COSIMA/cice5.git
+	url = https://github.com/penguian/cice5.git
+	branch = gadi-scaling-01
 [submodule "control/1deg_jra55_ryf"]
 	path = control/1deg_jra55_ryf
 	url = https://github.com/COSIMA/1deg_jra55_ryf.git
 [submodule "control/01deg_jra55_ryf"]
 	path = control/01deg_jra55_ryf
 	url = https://github.com/COSIMA/01deg_jra55_ryf.git
+[submodule "control/01deg_jra55v13_ryf9091"]
+	path = control/01deg_jra55v13_ryf9091
+	url = https://github.com/penguian/01deg_jra55v13_ryf9091.git
+	branch = gadi-scaling-01
 [submodule "control/025deg_jra55_ryf"]
 	path = control/025deg_jra55_ryf
 	url = https://github.com/COSIMA/025deg_jra55_ryf.git
